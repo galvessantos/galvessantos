@@ -42,5 +42,4 @@
 
 ### 
 
-<br clear="both">
 ![snake gif](https://github.com/galvessantos/galvessantos/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)

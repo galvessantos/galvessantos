@@ -30,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-###
 <div style="margin-bottom: 20px;"></div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/galvessantos/" target="_blank">

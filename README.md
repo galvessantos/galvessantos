@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👨‍💻! My name is Gabriel Alves and I'm a Backend Developer from Brazil.</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=941dde&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfdff&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+Is+Gabriel+Alves.;I'm+20+years+old.;I+live+in+Sorocaba,++São+Paulo+-+Brazil.;I'm+a+Computer+Science+Student.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">

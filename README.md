@@ -6,8 +6,8 @@
 <br>
 <h2 align="left">About Me</h2>
 
-- 🎓 Computer Science student at UNIP  
-- 💼 IT Intern at Plastic Omnium  
+- 💼 Software Development Intern at Montreal
+- 🎓 Computer Science student at Universidade Paulista
 - 📘 Currently learning Java, Angular, API integration, and full CRUD operations
 
 

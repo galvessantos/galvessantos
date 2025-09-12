@@ -6,9 +6,9 @@
 <br>
 <h2 align="left">About Me</h2>
 
-- 💼 Software Development Intern at Montreal
-- 🎓 Computer Science student at Universidade Paulista
-- 📘 Currently learning Java, Angular, API integration, and full CRUD operations
+- Software Development Intern at Montreal
+- Computer Science student at Universidade Paulista
+- Currently learning Java, Angular, API integration, and full CRUD operations
 
 
 <br>

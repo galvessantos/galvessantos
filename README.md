@@ -27,7 +27,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Java-191970?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/React-191970?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Angular-191970?style=for-the-badge&logo=angular&logoColor=white" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring_Boot-191970?style=for-the-badge&logo=spring-boot&logoColor=white" height="30" alt="spring logo"  />
   <img width="12" />

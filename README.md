@@ -6,10 +6,8 @@
 <br>
 <h2 align="left">About Me</h2>
 
-- Software Development Intern at Montreal
-- Computer Science student at Universidade Paulista
-- Currently learning Java, Angular, API integration, and full CRUD operations
-
+- Desenvolvedor Backend Júnior 
+- Estudante de Ciência da Computação na UNIP, com previsão de formação em dezembro de 2026
 
 <br>
 
@@ -22,7 +20,7 @@
 
 ### 
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Tecnologias</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-191970?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
@@ -42,7 +40,7 @@
 
 ###
 
-<h2 align="left">Contacts</h2>
+<h2 align="left">Contatos</h2>
 
 ### 
 

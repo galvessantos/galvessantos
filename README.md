@@ -41,10 +41,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F0FFFF&logoColor=black&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
   
-  <a href="https://wa.me/5515998116521" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=F0FFFF&logoColor=black&style=for-the-badge" height="30" alt="whatsapp logo"/>
-  </a>
-  
   <a href="mailto:gabrielww1@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F0FFFF&logoColor=black&style=for-the-badge" height="30" alt="gmail logo"/>
   </a>

@@ -14,13 +14,6 @@
 
 ###
 
-<div align="left">  
-  <h2 align="left">GitHub Status</h2>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=galvessantos&hide_title=true&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="GitHub Status" /> 
-</div>
-
-### 
-
 <h2 align="left">Tecnologias</h2>
 
 <div align="left">

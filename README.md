@@ -6,9 +6,7 @@
 <br>
 <h2 align="left">About Me</h2>
 
-- Desenvolvedor Backend Júnior.
-- Estudante de Ciência da Computação na UNIP, com previsão de formação em dezembro de 2026.
-- Atualmente aprimorando meus conhecimentos em Java, Estrutura de Dados e AWS.
+Desenvolvedor Full Stack Júnior com foco em backend Java/Spring Boot. Atuo profissionalmente com aplicações corporativas, APIs REST, integrações, segurança, testes e evolução de sistemas web e desktop.
 
 <br>
 

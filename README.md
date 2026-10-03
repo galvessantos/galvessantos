@@ -1,47 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=941dde&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=941dde&height=120&section=header" alt="Cabeçalho" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfdff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gabriel!👋🏼;I'm+a+Software+Developer.+;Be+welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Gabriel Alves</h1>
 
-<br>
-<br>
-<h2 align="left">About Me</h2>
+<p align="center">
+  <strong>Desenvolvedor Full Stack Júnior @ Montreal</strong><br />
+  Java • Spring Boot • React • TypeScript
+</p>
 
-Desenvolvedor Full Stack Júnior com foco em backend Java/Spring Boot. Atuo profissionalmente com aplicações corporativas, APIs REST, integrações, segurança, testes e evolução de sistemas web e desktop.
-
-<br>
-
-###
-
-<h2 align="left">Tecnologias</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-191970?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring_Boot-191970?style=for-the-badge&logo=spring-boot&logoColor=white" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-191970?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-191970?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-191970?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo"  />
-</div>
-
-<br>
-
-###
-
-<h2 align="left">Contatos</h2>
-
-### 
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/galvessantos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F0FFFF&logoColor=black&style=for-the-badge" height="30" alt="linkedin logo"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/galvessantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-941dde?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto:gabrielww1@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F0FFFF&logoColor=black&style=for-the-badge" height="30" alt="gmail logo"/>
+  <a href="https://galvessantos.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-191970?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfólio" />
   </a>
-</div>
+  <a href="mailto:gabrielww1@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-941dde?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="30" alt="Email" />
+  </a>
+</p>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=941dde&height=120&section=footer"/>
+## Sobre mim
+
+Desenvolvedor Full Stack Júnior na Montreal, com experiência no desenvolvimento de aplicações corporativas utilizando Java, Spring Boot, React e TypeScript. Atuo na construção de APIs REST, interfaces web, integrações entre sistemas, autenticação, testes automatizados e pipelines de CI/CD.
+
+Cursando Ciência da Computação na Universidade Paulista (UNIP), com conclusão prevista para dezembro de 2026.
+
+## Stack principal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-191970?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-191970?style=for-the-badge&logo=springboot&logoColor=white" height="30" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-191970?style=for-the-badge&logo=react&logoColor=white" height="30" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-191970?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-191970?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-191970?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" />
+</p>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=941dde&height=120&section=footer" alt="Rodapé" />
